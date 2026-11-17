@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @sarvesh
-- 👀 I’m interested in developing android application 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey, I'm Sarvesh Patil!
 
-<!---
-sarvesh1725/sarvesh1725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 MCA Student | Aspiring Software Developer | Android App Enthusiast
+
+- 👀 **Interests:** Android App Development, Software Development & Web Technologies.
+- 🌱 **Currently Learning:** Computer Science, Java, Python, Web Development & Mobile App Development.
+- 🎯 **Goal:** Building innovative applications and solving real-world problems through technology.
+- 💞️ **Open to Collaborate:** Exciting projects, open-source contributions & innovative ideas.
+- 📫 **Let's Connect:** [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/sarvesh1725)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I love turning creative ideas into real-world digital solutions!
+
+---
+
+### 🚀 My Developer Mindset
+
+> "Code. Create. Innovate. Repeat."
+
+Always curious, continuously learning, and passionate about building something meaningful with technology.
+
+---
+
+⭐ *Thanks for visiting my profile! Let's build something amazing together.*
